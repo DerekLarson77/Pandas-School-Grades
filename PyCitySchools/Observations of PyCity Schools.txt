@@ -1,0 +1,10 @@
+Derek Larson
+4/17/2021
+Pandas Challenge - PyCity Schools
+	The average reading score was higher than the average math score in almost every school and grade.
+	Both the math and reading average scores stayed roughly the same between grades.  There tended to be a tiny decline in the higher grades compared to 9th grade.
+	
+	Contrary to the expectation, but both math and reading had higher average scores and much higher % passing in the bins with fewer spending per student.
+	The small and medium sized schools had simiar scores and passing % across the board, but the large schools were lower in averages due to having a much lower % passing.
+
+	The Charter and District schools were fairly close in average reading score, but a good distance from average math scores.  The % passing math and reading were a complete landslide in favor of Charter schools.
