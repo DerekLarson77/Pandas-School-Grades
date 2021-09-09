@@ -34,7 +34,7 @@ Two CSV files were used.  One file contained information about different schools
 
 
 9)  Scores by School Type.
-	There were only two types in the dataset:  Charter and District.  Since they were a string no bin was used and just a groupby was used.
+	There were only two types in the dataset:  Charter and District.  Since they were a string a groupby was used instead of a bin.
 	![image](https://user-images.githubusercontent.com/80318883/132770740-c8fce91a-96fd-47c1-8e2d-8d5a493c2ab8.png)
 
 
